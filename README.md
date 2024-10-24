@@ -1,1 +1,0 @@
-# SVM_Uswatun-Nisa
